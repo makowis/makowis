@@ -1,4 +1,4 @@
-[portfolio](https://makowis.com/)
+[portfolio](https://makowis.dev/)
 
 <!--
 **makowis/makowis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
